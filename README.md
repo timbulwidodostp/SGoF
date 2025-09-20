@@ -1,6 +1,8 @@
 # SGoF
 Conservative SGoF multiple testing procedure Use SGoF (sgof) With (In) R Software
 
+https://www.youtube.com/watch?v=fVat4tdUVRo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
